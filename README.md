@@ -226,7 +226,7 @@ Expose `Texture2D` parameters named `WeightMap0`, `WeightMap1`, etc. Sampler typ
 - [ ] Runtime LOD distance tuning from panel
 
 ### 🌐 Platform Verification
-- [ ] UE 5.1 / 5.3 / 5.6 / 5.7 verified builds
+- [X] UE 5.2 / 5.3 / 5.4 / 5.5 / 5.6 / 5.7 verified builds
 - [ ] Mac/Linux compilation verified
 
 ---
